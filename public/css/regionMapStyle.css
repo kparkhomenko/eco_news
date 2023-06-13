@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #F0FAFF;
+}
+
+.container {
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar {
+	height: 100px;
+	background-color: #FFFFFF;
+}
+
+.content_container {
+	width: 995px;
+	height: 1250px;
+/*	background-color: #B4E4FF;*/
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.map {
+	width: 782px;
+	height: 695px;
+	position: relative;
+	top: 5%;
+	left: 10%;
+}
+
+.marker1 {
+	position: relative;
+	bottom: 36.5%;
+	right: 27%;
+
+}
+
+.marker2 {
+	position: relative;
+	bottom: 26%;
+	right: 12%;
+
+}
+
+.marker3 {
+	position: relative;
+	bottom: 26%;
+	right: 57%;
+}
+
+.marker4 {
+	position: relative;
+	bottom: 16%;
+	right: 64%;
+}
